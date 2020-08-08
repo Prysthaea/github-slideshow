@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Testing, Four Three Two One Testing
+>I disagree strongly with 
+>whatever this quote is attached to.
+*Randal Munroe*
 Use the left arrow to go back!
